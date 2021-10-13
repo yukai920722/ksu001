@@ -41,16 +41,12 @@ socat  TCP-LISTEN:2111,reuseaddr,fork EXEC:/bin/flag
   - a
   - n
   - 0
-
-- 提示 : 80 Port  ==> 怎模看網頁? 指令列? ==> curl
-- 
 - curl 127.0.0.1
 
 # linux-8
 
-- 下載並解壓縮ForYou檔案
-- 下載 ==> wget
-- 解壓縮 ==> tar
+- 下載和解壓縮ForYou檔案
+
   - tar zxvf ForYou.tar.gz
 
 
