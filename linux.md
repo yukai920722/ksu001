@@ -1,6 +1,7 @@
 
 # linux-1
 ls
+
 cat flag
  
 # linux-2
@@ -10,11 +11,13 @@ ls -al
 # linux-3
 
 cat hex.txt
+
 xxd -r -p hex.txt
 
 # linux-4
 
 cat base64.txt
+
 base64 -d base64.txt
 
 # linux-5
