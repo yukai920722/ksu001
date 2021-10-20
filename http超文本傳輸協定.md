@@ -2,7 +2,7 @@
 
 - [Hypertext Transfer Protocol (HTTP)](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 - [超文本傳輸協定](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
-  - HTTP是一種用於分佈式、協作式和超媒體訊息系統的`應用層`協定
+  - HTTP是一種用於分佈式、協作式和超媒體訊息系統的應用層協定
 
 
 ## HTTP Request
