@@ -42,8 +42,3 @@
 | 3xx| 重新導向 | 
 | 4xx| 客戶端錯誤 | 
 | 5xx| 伺服器錯誤 | 
-
-## 使用curl測試HTTP協定
-
-## 使用python測試HTTP協定
-© 2021 GitHub, Inc.
