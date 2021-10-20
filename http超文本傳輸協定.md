@@ -3,6 +3,15 @@
 - [Hypertext Transfer Protocol (HTTP)](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 - [超文本傳輸協定](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
   - HTTP是一種用於分佈式、協作式和超媒體訊息系統的應用層協定
+![http](https://user-images.githubusercontent.com/90737336/138025593-498da267-7c8b-4a06-8217-fc4e53fffd72.png)
+## HTTP Request
+
+![HTTP_Request](https://user-images.githubusercontent.com/90737336/138025628-2715f601-c346-4a3d-81a8-c96f72173520.png)
+- CRLF refers to the special character elements "Carriage Return" and "Line Feed."
+These elements are embedded in HTTP headers and other software code to signify an End of Line (EOL) marker.
+- Many internet protocols, including MIME (e-mail), NNTP (newsgroups) and, more importantly, HTTP, use CRLF sequences to split text streams into discrete elements.
+- Web application developers split HTTP and other headers based on where CRLF is located.
+- CRLF injection attack ==> Exploits occur when an attacker is able to inject a CRLF sequence into an HTTP stream.
 
 ## [HTTP Request method請求方法](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 
