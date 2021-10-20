@@ -14,14 +14,13 @@
 - Web application developers split HTTP and other headers based on where CRLF is located. 
 - CRLF injection attack ==> Exploits occur when an attacker is able to inject a CRLF sequence into an HTTP stream. 
 
-### [HTTP Request method請求方法](https://zh.wikipedia.org/wiki/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE)
+### [HTTP Request method請求方法](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
+- [HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
 
 ## HTTP Response
 
-![HTTP_Response](HTTP_Response.png)
-
+![HTTP_Response](https://user-images.githubusercontent.com/90737336/138024758-2d523b82-8a68-42ef-8059-5bbefc549b98.png)
 
 ### [HTTP Status Code(HTTP狀態碼)](https://zh.wikipedia.org/wiki/HTTP%E7%8A%B6%E6%80%81%E7%A0%81)
 
