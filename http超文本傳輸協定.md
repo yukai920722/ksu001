@@ -1,7 +1,7 @@
 # HTTP
 
 - [Hypertext Transfer Protocol (HTTP)](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
-- [超文本傳輸協定](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+- [超文本傳輸協定](https://zh.wikipedia.org/wiki/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE)
   - HTTP是一種用於分佈式、協作式和超媒體訊息系統的應用層協定
 ![http](https://user-images.githubusercontent.com/90737336/138025593-498da267-7c8b-4a06-8217-fc4e53fffd72.png)
 ## HTTP Request
