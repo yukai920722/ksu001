@@ -1,17 +1,17 @@
-<!DOCTYPE html>
+<!DOCTYPE html>//文件類型
 <html>
 <head>
-    <title>Cafe Unlimited - Home</title>
+    <title>Cafe Unlimited - Home</title>//標題
 
     <script>
-        function bigger(){
+        function bigger(){                                                 //javascript
             document.getElementById('body').style.fontSize='x-large';
         }
         function smaller(){
             document.getElementById('body').style.fontSize='medium';
         }
     </script>
-    <style>
+    <style>                                                               //
         h1 {
             font-family: fantasy;
             color: slategray;
@@ -22,7 +22,7 @@
         }
 
         li {
-            font-family: sans-serif;
+            font-family: sans-serif;//淑幸
             color: #000080;
         }
     </style>
@@ -75,7 +75,7 @@
 <p>    We are open:</p>
 
 <ul>
-    <li>Saturday and Sunday, 7 am to 2 pm</li>
+    <li>Saturday and Sunday, 7 am to 2 pm</li>                              //超連結
     <li>Monday through Friday, 6 am to 2 pm</li>
 </ul>
 <p>Visit our contact page for directions and contact information.</p>
@@ -88,6 +88,7 @@
 <p>Cafe Unlimited<br>
 617-555-1234<br>
     cafeunlimited@example.com</p>
+    <p>我的死好老師</p>
 </body>
 </html>
 
